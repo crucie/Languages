@@ -17,8 +17,31 @@ const myHeros = ["iron man", "Dr Strange"];
 // console.log(myArr);
 
 // myArr.unshift(9)
-console.log(myArr);
+// const thisIS = {
+//     name: "Divya",
+// }
+
+// console.log(myArr);  
+
+// const obj1 = {
+//     name: "amay",
+//     age: 18,
+// }
+// console.log(obj1.age)
+// console.log(obj1["name"]);
+
+// obj1.greeting = function(){
+//     console.log("hello world");
+// }
+
+// console.log(obj1.greeting);
+// console.log(obj1.greeting());
+
+// obj1.Greet = function(){
+//     console.log(`NAMaste, ${this.name}`);
+// }
+
+// console.log(obj1.Greet())
 
 
-
- 
+const 
