@@ -44,4 +44,3 @@ const myHeros = ["iron man", "Dr Strange"];
 // console.log(obj1.Greet())
 
 
-const 
