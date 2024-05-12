@@ -53,9 +53,19 @@ console.log(courseInstructor);
 //     "price": "free"
 // }
 
-[
-    {},
-    {},
-    {}
+// [
+//     {},
+//     {},
+//     {}
 
-]
+// ]
+
+const user = {
+    username: "Hittesh",
+    price:199
+}
+function handleObject(anyObj){
+    console.log(`Username is ${anyObj.username} and the price is ${anyObj.price}`)
+}
+
+handleObject(user)
